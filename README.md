@@ -35,8 +35,9 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
 
 
 1. Install Python:  
-  Make sure you have Python installed on your system. You can download it from the official website: [python.org](https://www.python.org/downloads/).  
-  Verify the installation by running:
+   **Make sure you have Python installed on your system. You can download it from the official website:** [python.org](https://www.python.org/downloads/).
+  
+   1.1 Verify the installation by running:
 
   ```bash
   python --version
