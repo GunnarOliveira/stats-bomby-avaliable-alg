@@ -33,25 +33,34 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
 
 ## Installation & Usage 📥
 
-1. Clone this repository:
+
+1. Install Python:  
+  Make sure you have Python installed on your system. You can download it from the official website: [python.org](https://www.python.org/downloads/).  
+  Verify the installation by running:
+
+  ```bash
+  python --version
+  ```
+
+2. Clone this repository:
 
 ```bash
 git clone https://github.com/GunnarOliveira/statsbomb-prediction-dashboard.git
 ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
 ```bash
 cd statsbomb-prediction-dashboard
 ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
    
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Streamlit app locally:
+5. Run the Streamlit app locally:
    
 ```bash
 streamlit run get_team_results.py
