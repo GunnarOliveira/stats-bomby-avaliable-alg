@@ -47,7 +47,7 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
 3. Clone this repository:
 
 ```bash
-git clone https://github.com/GunnarOliveira/statsbomb-prediction-dashboard.git
+git clone https://github.com/GunnarOliveira/statsbomb-analysis-algorithm.git
 ```
 
 3. Navigate to the project directory:
