@@ -25,7 +25,7 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
 ## 🛠️ Technologies Used
 
 - **Python**: For data parsing, analysis, and visualization.
-  - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `streamlit`
+  - Libraries: `pandas`, `matplotlib.pyplot`, `streamlit`, `os`, `json`
 - **Streamlit**: For creating the interactive dashboard.
 - **JSON**: To handle StatsBomb's raw data files.
 - **Matplotlib**: For generating bar charts and other visualizations.
@@ -34,7 +34,8 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
 ## Installation & Usage 📥
 
 
-1. Install Python:  
+1. Install Python:
+   
    **Make sure you have Python installed on your system. You can download it from the official website:** [python.org](https://www.python.org/downloads/).
   
    1.1 Verify the installation by running:
@@ -43,7 +44,7 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
     python --version
     ```
 
-2. Clone this repository:
+3. Clone this repository:
 
 ```bash
 git clone https://github.com/GunnarOliveira/statsbomb-prediction-dashboard.git
