@@ -39,9 +39,9 @@ The goal is to create an interactive dashboard that predicts the outcome of hypo
   
    1.1 Verify the installation by running:
 
-  ```bash
-  python --version
-  ```
+    ```bash
+    python --version
+    ```
 
 2. Clone this repository:
 
