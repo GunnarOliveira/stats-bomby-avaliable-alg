@@ -53,7 +53,7 @@ git clone https://github.com/GunnarOliveira/statsbomb-analysis-algorithm.git
 3. Navigate to the project directory:
    
 ```bash
-cd statsbomb-prediction-dashboard
+cd statsbomb-analysis-algorithm
 ```
 
 4. Install the required dependencies:
